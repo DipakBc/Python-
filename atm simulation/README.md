@@ -14,7 +14,7 @@ This is a basic **ATM simulation project** written in Python. It allows a user t
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python (Standard Library)
 - Object-Oriented Programming (OOP)
