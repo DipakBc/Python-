@@ -1,4 +1,4 @@
-echo "# Expense Tracker
+# Expense Tracker
 
 This Python-based Expense Tracker system allows you to track your daily expenses, view all expenses, and calculate the total expenses. 
 
